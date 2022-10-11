@@ -20,13 +20,13 @@ const Navbar = () => {
           </div>
           <div className="hidden md:inline-flex items-center space-x-5">
             <Link to="/">
-              <h3 className="cursor-pointer hover:underline">Home</h3>
+              <h3 className="cursor-pointer hover:underline">HOME</h3>
             </Link>
             <Link to="/about">
-              <h3 className="cursor-pointer hover:underline">About</h3>
+              <h3 className="cursor-pointer hover:underline">ABOUT</h3>
             </Link>
             <Link to="/contact">
-              <h3 className="cursor-pointer hover:underline">Contact</h3>
+              <h3 className="cursor-pointer hover:underline">CONTACT</h3>
             </Link>
 
             <Link to="/contact">
